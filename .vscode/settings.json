@@ -1,0 +1,10 @@
+{
+    "auto-rename-tag.activationOnLanguage": [
+
+        "*"
+    ],
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
